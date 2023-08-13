@@ -5,3 +5,7 @@
 .regtile
 *.scop
 *.out
+
+*.pluto.c
+*.pluto.cloog
+*.pre
