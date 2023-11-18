@@ -5,3 +5,5 @@ pluto --dumpscop --nointratileopt --nodiamond-tile --noprevector --smartfuse --n
 ```
 
 Run `make` to see the comparison.
+
+Now the comparsion use `clang -O3` to compile codes and `diff` to compare their results. Make sure they are installed in your PATH. 
